@@ -39,6 +39,7 @@ testem.log
 
 #API keys?
 /src/environments
+.firebase/
 
 # System files
 .DS_Store
